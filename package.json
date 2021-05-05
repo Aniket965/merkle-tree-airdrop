@@ -1,0 +1,24 @@
+{
+  "name": "merkle-tree-airdrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node generator.js && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniket965/merkle-tree-airdrop.git"
+  },
+  "keywords": [],
+  "author": "Aniket965",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aniket965/merkle-tree-airdrop/issues"
+  },
+  "homepage": "https://github.com/Aniket965/merkle-tree-airdrop#readme",
+  "dependencies": {
+    "elliptic": "^6.5.4",
+    "ethers": "^5.1.4"
+  }
+}
